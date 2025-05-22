@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+langchain
+sentence-transformers
+pyodbc
+requests
+tabulate
+sqlalchemy

@@ -1,0 +1,6 @@
+pymilvus
+numpy
+sentence_transformers
+fastapi
+uvicorn
+pydantic
